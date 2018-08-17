@@ -1,6 +1,4 @@
 # 스타트업 법률 강의 : BM (Business Model)에 따른 법률 이슈와 법률 솔루션 이해하기
-----------------
-** 스타트업은 법률과 밀접한 관계 ** 
 
 What : 비즈니스 모델
 ============
@@ -181,7 +179,7 @@ Where : 사건이 발생한 장소(사건이 일어난 장소 별로 기재)
 What : 사건의 내용(어더한 일이 벌어졌는지, 어떠한 피해를 입었는지 여부 등)
 how : 사건 대응 조치(발생한 사건에 대하여 어떠한 대처를 하였는지 여부 등)
 
-![Alt text](/path/to/img.jpg)
+![Alt text](https://github.com/digimon1740/law-course-for-start-up/blob/master/img.jpeg?raw=true)
 
 Where : 플랫폼 (온라인, 오프라인)
 ============
